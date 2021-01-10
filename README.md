@@ -2,7 +2,7 @@
 
 I'm happy to connect with you, here's some things about me:
 
-- 🌱 I'm the founder and main contributor of the Virgilio - Data Science E-Learning Project.
+- 🌱 I'm the founder and main contributor of the [**Virgilio - Data Science E-Learning Project**](https://virgili0.github.io/Virgilio/).
 
         If you want to collaborate on Virgilio and make the difference, just contact me! 
 
