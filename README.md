@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, I'm Giacomo!👋
 
-<!--
-**clone95/clone95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm happy to connect with you, here's some things about me:
 
-Here are some ideas to get you started:
+- 🌱 I'm the founder and main contributor of the Virgilio - Data Science E-Learning Project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        If you want to collaborate on Virgilio and make the difference, just contact me! 
+
+- 🔭 I’m currently working as Artificial Intelligence Engineer at a shiny AI startup based in Bologna, Italy.
+
+- 📊 I’m currently learning about Data, Artificial Intelligence, and Financial Markets.
+
+- 💰 I'm a self-taught investor, with a focus on Data Driven and Artificial Intelligence companies.
+
+- 👯 I’m looking to collaborate on literally everything you can think about! 
+
+- 📫 How to reach me: 
+    - Send an e-mail to giacomo@cloudif.ai
+    - connect with
+        - on [LinkedIn](https://www.linkedin.com/in/giacomo-ciarlini-34669586/) 
+        - on [Instagram](https://www.instagram.com/giacomociarlini/)
+
