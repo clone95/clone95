@@ -17,7 +17,7 @@ I'm happy to connect with you, here's some things about me:
 - 👯 I’m looking to collaborate on literally everything you can think about! 
 
 - 📫 How to reach me: 
-    - Send an e-mail to giacomo.ciarlini.italy@gmail.com
+    - Send an e-mail to giacomociarlini@datapizza.tech
     - connect with
         - on [LinkedIn](https://www.linkedin.com/in/giacomo-ciarlini-34669586/) 
         - on [Instagram](https://www.instagram.com/giacomociarlini/)
